@@ -7,4 +7,4 @@ Simple Tic-Tac-Toe web application, the user can play against themself until ach
 https://kevininfante.github.io/tic-tac-toe/
 
 ## Preview
-![app gif](https://github.com/KevinInfante/tic-tac-toe/blob/main/tic-tac-toe.gif)
+![app gif](https://github.com/KevinInfante/tic-tac-toe/blob/master/tic-tac-toe.gif)
